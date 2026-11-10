@@ -1,3 +1,4 @@
 {
-  "$schema": "https://swc.rs/schema.json"
+  "$schema": "https://swc.rs/schema.json",
+  commit-2 from faz2
 }
